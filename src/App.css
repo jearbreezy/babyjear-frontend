@@ -65,10 +65,10 @@
   background-color: #47cf73;
   background-image: url('./images/jear-logo1.png');
   background-position: center;
-  background-size:100% auto;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
+  font-size: 100px auto;
+  background-size:100% auto;
 }
 
 .marketing {
