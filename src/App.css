@@ -16,7 +16,9 @@
   height: 90vh;
   align-items: center;
   justify-content: center;
-  font-size: 3rem;
+
+  font-size: 100px auto;
+  background-size:100% auto;
 }
 
 .home {
