@@ -22,8 +22,8 @@
 }
 
 .home {
-  background-color: #47cf73;
-  background-image: url('./images/jear-logo1.png');
+  background-color: #964da9;
+  background-image: url('./images/jearbreezy_homepage.gif');
   background-position: center;
   background-repeat: no-repeat;
   color: #fff;
@@ -32,7 +32,7 @@
 }
 
 .services {
-  background-color: #47cf73;
+  background-color: #964da9;
   background-image: url('./images/jear-logo1.png');
   background-position: center;
   background-repeat: no-repeat;
@@ -42,7 +42,7 @@
 }
 
 .products {
-  background-color: #47cf73;
+  background-color: #964da9;
   background-image: url('./images/jear-logo1.png');
   background-position: center;
   background-repeat: no-repeat;
@@ -52,7 +52,7 @@
 }
 
 .contact-us {
-  background-color: #47cf73;
+  background-color: #964da9;
   background-image: url('./images/jear-logo1.png');
   background-position: center;
   background-size:100% auto;
@@ -62,7 +62,7 @@
 }
 
 .sign-up {
-  background-color: #47cf73;
+  background-color: #964da9;
   background-image: url('./images/jear-logo1.png');
   background-position: center;
   background-repeat: no-repeat;
@@ -72,7 +72,7 @@
 }
 
 .marketing {
-  background-color: #47cf73;
+  background-color: #964da9;
   background-image: url('./images/jear-logo1.png');
   background-position: center;
   background-size:100% auto;
@@ -82,7 +82,7 @@
 }
 
 .consulting {
-  background-color: #47cf73;
+  background-color: #964da9;
   background-image: url('./images/jear-logo1.png');
   background-position: bottom;
   background-size:100% auto;
