@@ -8,84 +8,36 @@
 .home,
 .services,
 .products,
-.contact-us,
-.sign-up,
-.marketing,
-.consulting {
+.sign-up {
   display: flex;
   height: 90vh;
   align-items: center;
   justify-content: center;
-
-  font-size: 100px auto;
-  background-size:100% auto;
-}
-
-.home {
-  background-color: #964da9;
-  background-image: url('./images/jearbreezy_homepage1.gif');
-  background-position: center;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px auto;
-  background-size:100% auto;
+  font-size: 3rem;
 }
 
 .services {
-  background-color: #964da9;
-  background-image: url('./images/jear-logo1.png');
+  background-image: url('/images/services.jpg');
   background-position: center;
+  background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px auto;
-  background-size:100% auto;
+  font-size: 100px;
 }
 
 .products {
-  background-color: #964da9;
-  background-image: url('./images/jear-logo1.png');
+  background-image: url('/images/products.jpg');
   background-position: center;
+  background-size: fill;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px auto;
-  background-size:100% auto;
-}
-
-.contact-us {
-  background-color: #964da9;
-  background-image: url('./images/jear-logo1.png');
-  background-position: center;
-  background-size:100% auto;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px auto;
+  font-size: 100px;
 }
 
 .sign-up {
-  background-color: #964da9;
-  background-image: url('./images/jear-logo1.png');
+  background-image: url('/images/location8.jpg');
   background-position: center;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px auto;
-  background-size:100% auto;
-}
-
-.marketing {
-  background-color: #964da9;
-  background-image: url('./images/jear-logo1.png');
-  background-position: center;
-  background-size:100% auto;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px auto;
-}
-
-.consulting {
-  background-color: #964da9;
-  background-image: url('./images/jear-logo1.png');
-  background-position: bottom;
-  background-size:100% auto;
+  background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;

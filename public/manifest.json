@@ -1,9 +1,9 @@
 {
-  "short_name": "JearBreezy App",
-  "name": "This is a Product of jearBreezy",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
-      "src": "Jearbreezylogo.png",
+      "src": "logo.png",
       "type": "image/png",
       "sizes": "192x192"
     }
